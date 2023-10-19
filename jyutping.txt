@@ -1,17 +1,18 @@
 ei1 wi1 sin3
 ou1 eu1 saam1
 ou1 ti1 cin2
-pi1 paai4 zai2
+zaam6 zeon2 gaa3 sai2 zap1 ziu3 ci4 jau5 jan4
 ik1 si4 gwong1 pin2
-in1 jan4
+min6 si5 mau5 jan4
+min6 si5 mau5 hau6 syun2 jan4
 jat1 go3 jan4
 jat1 zai1 joek6
-jat1 cin1 pat1
+jat1 cin1 taai3 zyu1
 jat1 daap6 syu1
-jat1 hau2 hei3
+jat1 daam6 hei3
 jat1 hau2 jin1
-jat1 hau2 deng1
-jat1 hau2 zam1
+jat1 ngaan2 deng1
+jat1 ngaan2 zam1
 jat1 geoi3 waa6
 jat1 gau6 faan6
 jat1 wai4 toi2
@@ -27,7 +28,7 @@ jat1 pai1 saam1
 jat1 pai1 fo3
 jat1 baa2 fo2
 jat1 zaa6 saa1
-jat1 pit3 seoi2
+jat1 cin1 man1
 jat1 pit3 sou1
 jat1 daam3 mai5
 jat1 pet6 nai4
@@ -56,8 +57,7 @@ jat1 pun4 seoi2
 jat1 pun4 faa1
 jat1 hap6 tong2
 jat1 aan2 dang1
-jat1 pun4 bun3
-jat1 pun4 seoi2
+jat1 maan6 man1
 jat1 luk1 ze3
 jat1 wun2 zuk1
 jat1 bat1 zaai3
@@ -171,7 +171,7 @@ aa3 gin6 hong1
 gaau1 gung1 fo3
 kaau1 caa1 sau2
 gaau1 gat1 gaa3
-gaau1 caai1 hoeng2
+gaau1 fai3 jung6
 gaau1 paai4 fai3
 gaau1 fat6 fun2
 gaau1 zaap6 zok3
@@ -276,7 +276,7 @@ baat3 bun3 tong4
 baat3 zit3 dik1
 baat3 jyut6 zung1
 gung1 si1 cok1
-gung1 jau5 zai3
+gung6 tung4 jung2 jau5 kyun4
 luk6 jyut6 dai2
 luk6 hou6 fong2
 luk6 dim2 ng5
@@ -468,9 +468,9 @@ go4 go1 zai2
 saau3 ngaa4 mui1
 hoe4 doe1 zeoi2
 zit3 hok6 lan2
-ai5 diu2
+ai5
 m4 zik6 cin2
-m4 giu3!
+ngo5 mou5 bei6 jiu1 cing2!
 m4 ho2 hang4
 m4 gau3 wan4
 m4 gau3 ngaak2
@@ -503,7 +503,7 @@ gam2 zaa4?
 gam2 joeng2 zou6
 pan3 mak6 zap1
 sei3 jan4 jing4
-sei3 wai2 sou3
+sing4 cin1 soeng5 maan6
 sei3 go3 cat1
 sei3 zak1 tai4
 sei3 aa6 leng2
@@ -642,7 +642,7 @@ sat6 tai2 syu1
 zaai3 kek6 cyun1
 se2 bok3 haak3
 se2 cing4 syu1
-se2 mong5 jip6
+se2 go3 mong5 zaam6
 bou2 zyu1 ji1
 se6 lung4 mun4
 zoeng1 keoi5 gwan1
@@ -651,7 +651,7 @@ zyun1 mun4 dim3
 deoi3 m4 zyu6
 deoi3 deoi3 lyun2
 siu1 ban2 man4
-siu2 baa1 lou2
+siu2 baa1 si1 gei1
 siu2 waan4 ji3/siu2 wun6 ji3
 siu2 baak3 lou6
 siu2 hung4 mui2
@@ -1466,7 +1466,7 @@ sai3 saa1 tong1
 daai6 zung2 gau2
 sai3 baau1 bik1
 zung1 dim2 zaam6
-git3 jip6 lai5
+bat1 jip6 din2 lai5
 ging1 lan2 din2
 ging1 zai3 tung1
 ging1 tung3 tip3
@@ -1501,7 +1501,7 @@ mei5 jung4 jyun2
 mei5 seot6 si2
 jyu5 jung2 pei5
 zaap6 zok3 bou2
-faan1 loeng5 faan1
+faan1 pui5
 faan1 baan2 syu1
 lou5 jan4 ceoi4
 lou5 baak3 je1
@@ -1781,7 +1781,7 @@ tiu3 daan6 cong4
 tiu3 mou5 baan1
 daap6 sap6 ji6
 caai2 daan1 ce1
-caai2 dei6 leoi4
+caai2 gau2 si2
 jaai2 jau2 mun4
 caai2 bik6 lik1
 caai2 gong3 sin2
@@ -1956,7 +1956,7 @@ din6 nou5 sing4
 din6 nou5 zin2
 din6 man1 paak2
 din6 si6 paai4
-din6 fai3 daan1
+din6 fai3
 din6 ce1 zaam6
 lou6 suk1 ze2
 lou6 ci4 zong1
@@ -2061,7 +2061,7 @@ nim4 tip3 zi2
 ci1 gwai2 gan1
 ci1 gwai2 sin3
 haak1 tin1 ngo4
-hak1 saai3 min6
+hak1 hau2 hak1 min6
 hak1 baak6 pin2
 hak1 baak6 soeng2
 haak1 zung2 jan4
@@ -2901,7 +2901,7 @@ lou5 hei3 gwat1
 lou5 fo2 tong1
 lou5 faan1 dung1
 lou5 san4 zi2
-lou5 fu2 naa2
+neoi5 koeng4 jan4
 lou5 waan4 tung4
 lou5 syu2 joek6
 saa2 taai3 gik6
@@ -3179,9 +3179,9 @@ maa4 lat1 lou2
 maa4 zoek3 goek3
 wong4 daai6 sin1
 ci1 nap6 nap6
-haak1 ngaan5 hyun1
-haak1 gaau1 dip2
-haak1 gwo3 gwai2
+hak1 ngaan5 hyun1
+hak1 gaau1 dip2
+hak1 zai2
 bei6 go1 lung1
 bei6 tai3 cung4
 bei6 dau6 jim4
@@ -3426,7 +3426,7 @@ soeng6 wai4 fung1 mun5
 soeng6 tin1 gyun3 gu3
 soeng6 cang4 dei6 fu3
 soeng6 dai3 si6 gok3
-soeng5 gwong2 dung1 waa2
+soeng5 jyut6 jyu5 tong4
 soeng6 man4 haa6 lei5
 soeng6 lau4 se5 wui2
 soeng6 baan1 jat1 zuk6
@@ -4056,7 +4056,7 @@ gung1 laap6 ji1 jyun2
 gung1 jing6 si6 sat6
 gung1 hoi1 lyun2 cing4
 luk6 sei3 dak6 cap1
-luk6 si4 saam1 hak1
+luk6 dim2 daap3 gau2
 gung6 hoeng2 tin1 leon4
 gung6 hoeng2 ging1 zai3
 gung6 hoeng2 faan4 wing4
@@ -4966,7 +4966,7 @@ hok6 haau6 faan6 tong4
 hok6 saang1 suk1 se5
 hok6 saang1 gon3 bou6
 hok6 saang1 si4 doi6
-hok6 saang1 ziu3 pin2
+hok6 saang1 soeng2
 hok6 saang1 pin1 hou6
 hok6 saang1 zi6 zi6
 hok6 zaap6 jyun4 dei6
@@ -5001,7 +5001,7 @@ zung1 gaau3 zi6 jau4
 zung1 gaau3 zaap6 wui2
 zung1 paai3 dau3 zang1
 gun1 soeng1 ngau1 git3
-gun1 gaa1 ge3 cin2
+zing3 fu2 cin2
 gun1 sik1 fong2 man6
 gun1 fong1 siu1 sik1
 ding6 kei4 hon2 mat6
@@ -6086,7 +6086,7 @@ si1 gaa1 aat3 lik6
 si1 zin2 mei6 lik6
 si1 zing3 wui6 bou3
 si1 zing3 bou3 gou3
-si1 faat3 hou6 ling6
+faat3 hou6 si1 ling6
 leoi5 haak3 seoi1 zi1
 leoi5 hang4 zing3 gin2
 leoi5 jau4 bou2 him2
@@ -6374,7 +6374,7 @@ joeng2 seoi1 dou3 gik6
 joeng6 maau6 ping4 ping4
 zyu6 laap6 bong2 joeng6
 zeon1 leng5 laang1 saam1
-gei1 gin2 sat1 ling4
+ling4 gin2 gu3 zoeng3
 gei1 dung6 jau4 hei3
 gei1 mat6 man4 gin2
 gei1 wui6 gwan1 dang2
@@ -7836,7 +7836,7 @@ zoek6 zung6 ngoi6 biu2
 pou4 tai4 zi2 gon1
 cung1 jau4 lou1 min6
 cung1 goeng1 baau3 wok6
-sau1 zaap6 jau4 piu3
+zaap6 jau4
 mung4 sau6 syun2 sat1
 mung4 gu2 gou1 jyun4
 cuk1 ji3 po3 waai6
@@ -8641,7 +8641,7 @@ hoi1 zo2 ng5 coeng1
 hoi1 ci2 lo3?
 hoi1 saan1 zi1 zok3
 hoi1 saan1 pek3 sek6
-hoi1 saan1 zou2 si1
+cong3 baan6 jan4
 hoi1 ting4 sam2 seon3
 hoi1 sam1 gwo2 zoeng3
 hoi1 coi2 sek6 jau4
@@ -8886,7 +8886,7 @@ tau4 wan4 san1 hing3
 tau4 tiu4 san1 man4
 tau4 baan2 san1 man4
 tau4 dang2 gei1 piu3
-tau4 dang2 gei1 cong1
+tau4 dang2 cong1
 tau4 dang2 ce1 kaa1
 tau4 dang2 ce1 soeng1
 tau4 nou5 cing1 sik1
@@ -10706,7 +10706,7 @@ siu2 hyun1 zi2 syun2 geoi2
 siu2 hok6 ji6 nin4 kap1
 siu2 hok6 soeng4 sik1 fo1
 siu2 sam1 paa4 sau2!
-siu2 tung4 sau1 bun3 fai3
+siu2 tung4 sau1 bun3 gaa3
 siu2 zi2 faa3 se5 wui2
 siu2 gong2 fai3 waa2!
 zau6 gam2 syun3 laa1.
@@ -11225,7 +11225,7 @@ zik6 cing4 hai6 laa1!
 zik6 laap6 sik1 tong3 dau2
 zik6 haang4 zyun3 zo2.
 zik6 gok3 saam1 gok3 jing4
-soeng1 faan2 ge3 ji3 gin3
+soeng1 faan2 ge3 gin3 ji5
 soeng1 jing3 ge3 cou3 si1
 soeng2 gei1 geng3 tau4
 zan1 zi3 ge3 jau5 ji4
@@ -11246,7 +11246,7 @@ bik1 luk6 ge3 sam1 lam4
 bik1 luk6 ge3 wu4 seoi2
 taan3 paai4 fong3 zung2 ngaak2
 bong6 sai2 gei2 cin2?
-zou2 sin1 bou2 jau6
+jyun6 zou2 sin1 bou2 jau6 nei5
 san4 zi3 cing1 sing2
 san4 sing3 ge3 jam6 mou6
 gam3 zi2 zoeng1 tip3.
@@ -11254,9 +11254,9 @@ gam3 wan6 fong2 zik1 ban2
 si1 jyun3 daai6 gwo3 tin1
 fo1 hok6 jyun2 jyun2 si6
 fo1 waan6 seon4 oi3 kek6
-fo1 gei6 san1 dung6 taai3
-hei1 jau5 ge3 ban2 zung2
-hei1 so1 ge3 tau4 faat3
+fo1 gei6 san1 faat3 zin2
+hei1 jau5 ban2 zung2
+tau4 faat3 hei1 so1
 saau2 hau6 pin3 hak1.
 hung1 cin4 sing6 fong3
 hung1 hei3 zing6 faa3 gei1
@@ -11301,7 +11301,7 @@ git3 fan1 gei2 nim6 jat6
 git3 mok2 haa6 ceot1 hyut3
 zyut6 miu6 ge3 pui3 dap3
 zyut6 zung2 hou2 naam4 jan2
-zyut6 ding2 ge3 cong3 ji3
+hou2 zyu2 ji3
 tung4 jat1 dou6 loeng6 hang4
 bong2 sat6 di1 laa1!
 ging1 din2 doi6 biu2 zok3
@@ -11537,15 +11537,15 @@ syun1 zi1 baat3 sin1 toi2
 syun1 zi1 muk6 gaa1 si1
 laai3 di1 jau4 lok6 wok6
 zeoi3 jan4 ge3 mei5 ging2
-sing2 wo3 aa3 joeng2!
+nei5 hou2 sing2 wo3, aa3 joeng2!
 cau2 ok3 ge3 jan4 sing3
-cau2 man4 do1 lo4 lo4
+hou2 do1 cau2 man4
 sik1 fong3 zing3 zi6 faan2
 cung4 gwong1 gei2 nim6 jat6
-cung5 loeng6 kap1 gaa1 ban1
+gaa1 ban1
 cung5 loeng6 kap1 kyun4 wong4
 gam1 suk6 taam3 caak1 hei3
-gam1 mou4 cam4 wui4 hyun2
+gam1 mou4 lip6 hyun2
 gam1 ngan4 daan2 jin6 coi3
 ngau1 zyu6 tiu4 laan4 gon1
 jeoi6 lei6 ge3 muk6 gwong1
@@ -12940,12 +12940,12 @@ hung4 ngoi6 sin3 taam3 jit6 hei3
 sou3 jan4 ei1 wi1 neoi5 jau1
 zung1 jyu1 gaau2 dim6 saai3
 zung1 jyu1 lok6 tong4 laa3!
-git3 taa1 sou1 lou4
+git3 taa1 duk6 zau3
 git3 cuk1 duk6 coi4 tung2 zi6
 tung2 cau4 zing2 go3 gai3 waak6
 si1 hou4 m4 sau6 jing2 soeng2
 ging1 soeng4 wong5 faan2 noi6 dei6
-ging1 zai3 ci4 zuk6 faat3 zin2
+ging1 zai3 wan2 bou6 zang1 zoeng2
 luk6 jau4 jau4 ge3 cou2 jyun4
 wai4 ci4 fu1 kap1 sam1 tiu3
 wai4 ci4 sau1 zi1 ping4 hang4
@@ -14486,7 +14486,7 @@ faat3 fong3 sat1 jip6 gau3 zai3 gam1
 baak6 gung1 zyun1 jung6 din6 waa2 sin3
 baak6 wan4 ceoi4 ji3 piu1 dong6.
 wong4 soeng6 cung2 ziu6 keoi5 jap6 gung1
-wong4 gaa1 hoeng1 gong2 jau4 teng5 wui2
+hoeng1 gong2 jau4 teng5 wui2
 wong4 dai6 zung1 jyu1 joeng6 wai6.
 sing6 wai6 saam1 sap6 go3 bun3
 muk6 dik1 zi2 jau5 jat1 go3!
@@ -15081,7 +15081,7 @@ nei5 ji4 gaa1 zou6 gan2 me1 aa3
 nei5 ji4 gaa1 gei2 do1 le1 aa3?
 nei5 hang2 coeng3, ngo5 fung6 pui4.
 nei5 hang2 gam2 zou6 zau6 zeoi3 hou2!
-nei5 zoek3 bin1 go3 cek3 maa5 aa3?
+nei5 me1 maa5?
 nei5 jiu3 bou2 sau2 bei3 mat6 aa3!
 nei5 jiu3 heoi3 min6 deoi3 jin6 sat6.
 nei5 jiu3 gei2 do1 tiu4 syut3 tiu2?
@@ -15326,7 +15326,7 @@ keoi5 din6 lyun1 zo2 di1 tau4 faat3.
 keoi5 kaau3 sai2 haak1 cin2 faat3 daat6.
 keoi5 tau4 sin1 heoi3 zo2 fong3 gau2.
 keoi5 tau4 dap1 dap1 gam2 zau2 zo2.
-keoi5 ngaak6 gok3 jau5 tiu4 baa1 han4.
+keoi5 ngaak6 tau4 gok3 jau5 tiu4 baa1 han4.
 keoi5 sik6 zo2 saam1 dip6 ji3 fan2.
 keoi5 sik6 je5 hou2 zeoi2 zim1 gaa3!
 keoi5 sik6 dak1 zeon1 zeon1 jau5 mei6
@@ -31601,7 +31601,7 @@ keoi5 go3 jan4 zeoi3 daai6 ge3 joek6 dim2 zau6 hai6 taai3 jung4 ji6 sam1 jyun5.
 keoi5 go3 puk1 gaai1, sik6 jyun4 ngo5 zek3 zyu1 zi1 hau6 fei1 zo2 ngo5.
 keoi5 go3 zai2 heoi3 zo2 dong1 bing1 zi1 hau6 zau6 zoi3 mou5 faan1 gwo3 lai4.
 keoi5 go3 tou5 hou2 ci5 hak1 dung6 gam2, sik6 gik6 dou1 m4 baau2 gaa3.
-keoi5 zou6 mat1 dou1 maan6 gwo2 jan4, gaan2 zik6 hai6 go3 zyu1 jau4 baau1!
+keoi5 zou6 mat1 dou1 maan6 tan1 tan1.
 keoi5 zou6 ni1 fan6 gung1 fo3 zi1 cin4 caam1 haau2 zo2 hou2 do1 zi1 liu2.
 keoi5 zou6 zo2 di1 sau2 goek3 ling6 zi6 gei2 zaan6 zo2 jat1 daai6 bat1 cin2.
 keoi5 zou6 je5 hai6 gin1, daan6 hai6 doi6 jan4 zip3 mat6 zau6 caa1 di1.
